@@ -1,4 +1,4 @@
 # UE4-ThirdPersonShooter
 A cover based third person shooter in UE4
 
-![](http://i.imgur.com/7ci7ZRHh.gif)
+[![](https://i.imgur.com/tLurnqN.jpg)](https://imgur.com/a/4txZ5CF)
