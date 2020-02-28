@@ -1,0 +1,3 @@
+D:\Work\Console-2\ThirdPersonShooter\Source\ThirdPersonShooter\ThirdPersonShooter.Build.cs
+D:\Work\Console-2\ThirdPersonShooter\Source\ThirdPersonShooter.Target.cs
+D:\Work\Console-2\ThirdPersonShooter\Source\ThirdPersonShooterEditor.Target.cs

@@ -1,0 +1,57 @@
+﻿  Creating makefile for ThirdPersonShooterEditor (no existing makefile)
+  Parsing headers for ThirdPersonShooterEditor
+    Running UnrealHeaderTool "D:\Work\Console-2\ThirdPersonShooter\ThirdPersonShooter.uproject" "D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\ThirdPersonShooterEditor\Development\ThirdPersonShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ThirdPersonShooterEditor in 6.1868435 seconds
+  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 23 actions with 8 processes...
+    [1/23] Default.rc2
+    [2/23] SharedPCH.Engine.cpp
+    [3/23] ThirdPersonShooter.cpp
+    [4/23] ThirdPersonShooterGameModeBase.cpp
+    [5/23] HealthComponent.cpp
+    [6/23] TPSAI.cpp
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(19): warning C4996: 'TEnumAsByte_EnumClass<true>': TEnumAsByte is not intended for use with enum classes - please derive your enum class from uint8 instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(10): note: see declaration of 'TEnumAsByte_EnumClass<true>'
+    d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\TPSCharacter.h(69): note: see reference to class template instantiation 'TEnumAsByte<WeaponState>' being compiled
+    [7/23] TPSGameMode.cpp
+    [8/23] HealthComponent.gen.cpp
+    [9/23] ThirdPersonShooterGameModeBase.gen.cpp
+    [10/23] TPSGameMode.gen.cpp
+    [11/23] TPSAI.gen.cpp
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(19): warning C4996: 'TEnumAsByte_EnumClass<true>': TEnumAsByte is not intended for use with enum classes - please derive your enum class from uint8 instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(10): note: see declaration of 'TEnumAsByte_EnumClass<true>'
+    d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\TPSCharacter.h(69): note: see reference to class template instantiation 'TEnumAsByte<WeaponState>' being compiled
+    [12/23] TPSCharacter.gen.cpp
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(19): warning C4996: 'TEnumAsByte_EnumClass<true>': TEnumAsByte is not intended for use with enum classes - please derive your enum class from uint8 instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(10): note: see declaration of 'TEnumAsByte_EnumClass<true>'
+    D:\Work\Console-2\ThirdPersonShooter\Source\ThirdPersonShooter/TPSCharacter.h(69): note: see reference to class template instantiation 'TEnumAsByte<WeaponState>' being compiled
+    [13/23] TPSWeapon.cpp
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(19): warning C4996: 'TEnumAsByte_EnumClass<true>': TEnumAsByte is not intended for use with enum classes - please derive your enum class from uint8 instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(10): note: see declaration of 'TEnumAsByte_EnumClass<true>'
+    d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\TPSCharacter.h(69): note: see reference to class template instantiation 'TEnumAsByte<WeaponState>' being compiled
+    [14/23] TPSCharacter.cpp
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(19): warning C4996: 'TEnumAsByte_EnumClass<true>': TEnumAsByte is not intended for use with enum classes - please derive your enum class from uint8 instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(10): note: see declaration of 'TEnumAsByte_EnumClass<true>'
+    d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\TPSCharacter.h(69): note: see reference to class template instantiation 'TEnumAsByte<WeaponState>' being compiled
+    [15/23] TPSPlayer.gen.cpp
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(19): warning C4996: 'TEnumAsByte_EnumClass<true>': TEnumAsByte is not intended for use with enum classes - please derive your enum class from uint8 instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(10): note: see declaration of 'TEnumAsByte_EnumClass<true>'
+    d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\TPSCharacter.h(69): note: see reference to class template instantiation 'TEnumAsByte<WeaponState>' being compiled
+    [16/23] TPSWeapon.gen.cpp
+    [17/23] Tracker.gen.cpp
+    [18/23] ThirdPersonShooter.init.gen.cpp
+    [19/23] Tracker.cpp
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(19): warning C4996: 'TEnumAsByte_EnumClass<true>': TEnumAsByte is not intended for use with enum classes - please derive your enum class from uint8 instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(10): note: see declaration of 'TEnumAsByte_EnumClass<true>'
+    d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\TPSCharacter.h(69): note: see reference to class template instantiation 'TEnumAsByte<WeaponState>' being compiled
+    [20/23] TPSPlayer.cpp
+c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(19): warning C4996: 'TEnumAsByte_EnumClass<true>': TEnumAsByte is not intended for use with enum classes - please derive your enum class from uint8 instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    c:\program files\epic games\ue_4.22\engine\source\runtime\core\public\Containers/EnumAsByte.h(10): note: see declaration of 'TEnumAsByte_EnumClass<true>'
+    d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\TPSCharacter.h(69): note: see reference to class template instantiation 'TEnumAsByte<WeaponState>' being compiled
+    [21/23] UE4Editor-ThirdPersonShooter.lib
+       Creating library D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonShooter\UE4Editor-ThirdPersonShooter.lib and object D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonShooter\UE4Editor-ThirdPersonShooter.exp
+    [22/23] UE4Editor-ThirdPersonShooter.dll
+       Creating library D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonShooter\UE4Editor-ThirdPersonShooter.suppressed.lib and object D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonShooter\UE4Editor-ThirdPersonShooter.suppressed.exp
+    [23/23] ThirdPersonShooterEditor.target
+  Total time in Parallel executor: 25.62 seconds
+  Total execution time: 42.57 seconds

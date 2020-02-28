@@ -1,0 +1,9 @@
+D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonShooter\Definitions.ThirdPersonShooter.h
+d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\TPSGameMode.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Inc\ThirdPersonShooter\TPSGameMode.generated.h
+d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\HealthComponent.h
+D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Inc\ThirdPersonShooter\HealthComponent.generated.h

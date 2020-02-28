@@ -1,0 +1,3 @@
+D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Development\ThirdPersonShooter\Definitions.ThirdPersonShooter.h
+d:\work\console-2\thirdpersonshooter\source\thirdpersonshooter\HealthComponent.h
+D:\Work\Console-2\ThirdPersonShooter\Intermediate\Build\Win64\UE4Editor\Inc\ThirdPersonShooter\HealthComponent.generated.h
